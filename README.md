@@ -1,10 +1,11 @@
 ### Hi, I'm Taha
 
-I build small, tested tools: a webcam eye-gaze keyboard, crash diagnostics for microcontrollers, checks for robots and FPGAs, and things you can print. Each repo tries to do one job, says what was measured, and says what was not.
+I build small, tested tools: a webcam eye-gaze keyboard, a robot policy you can read in an evening, crash diagnostics for microcontrollers, checks for robots and FPGAs, and things you can print. Each repo tries to do one job, says what was measured, and says what was not.
 
 | project | what it does |
 |---|---|
 | [lookspeak](https://github.com/tahakocp/lookspeak) | Type and speak with your eyes using any webcam, in the browser. Offline, nothing leaves the device. |
+| [picovla](https://github.com/tahakocp/picovla) | A vision-language-action robot policy from scratch in ~470 lines of PyTorch. Trains on a CPU, runs in the browser. |
 | [lifecited](https://github.com/tahakocp/lifecited) | Practical life guide in plain English, every claim quoted from WHO, NHS, CDC, Cochrane or a regulator. |
 | [lastwords](https://github.com/tahakocp/lastwords) | The last log lines and the fault that killed your Cortex-M, still in RAM after the reset. Two C files. |
 | [urdflint](https://github.com/tahakocp/urdflint) | Catches broken URDF robot descriptions before your simulator does. One Rust binary. |
