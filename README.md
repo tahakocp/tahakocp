@@ -7,7 +7,7 @@ I build small, tested tools: a webcam eye-gaze keyboard, a robot policy you can 
 | [lookspeak](https://github.com/tahakocp/lookspeak) | Type and speak with your eyes, one switch or a long blink, using any webcam, in the browser. Optional on-device language model, seven languages, nothing leaves the device. |
 | [picovla](https://github.com/tahakocp/picovla) | A vision-language-action robot policy from scratch in ~470 lines of PyTorch. Trains on a CPU, runs in the browser. |
 | [lifecited](https://github.com/tahakocp/lifecited) | Practical life guide in plain English, every claim quoted from WHO, NHS, CDC, Cochrane or a regulator. |
-| [lastwords](https://github.com/tahakocp/lastwords) | The last log lines and the fault that killed your Cortex-M, still in RAM after the reset. Two C files. |
+| [lastwords](https://github.com/tahakocp/lastwords) | The last log lines and the fault that killed your Cortex-M, still in RAM after the reset. Crash loops collapse into 17-byte repeats, so the history survives. Two C files. |
 | [urdflint](https://github.com/tahakocp/urdflint) | Catches broken URDF robot descriptions before your simulator does. One Rust binary. |
 | [hollowstar](https://github.com/tahakocp/hollowstar) | Tells whether a GitHub repo's stars were earned or bought, from public data only. |
 | [tinyraster](https://github.com/tahakocp/tinyraster) | Triangle rasterizer in SystemVerilog, pixel-exact against a C model. |
