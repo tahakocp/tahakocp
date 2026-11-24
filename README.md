@@ -4,6 +4,7 @@ I build small, tested tools: a webcam eye-gaze keyboard, a robot policy you can 
 
 | project | what it does |
 |---|---|
+| [exparte](https://github.com/tahakocp/exparte) | Medicaid renewals and the 2027 work requirement, decided from data the agency already has. Every step quotes the exact 42 CFR 435 sentence, checked against pinned official text. TypeScript, [browser demo](https://tahakocp.github.io/exparte/). |
 | [callshift](https://github.com/tahakocp/callshift) | An API changed: find the lines in your code that break and apply the renames that are safe. Diffs OpenAPI specs, scans a dozen-plus languages, CLI, GitHub Action and [browser demo](https://tahakocp.github.io/callshift/). 44/44 correct on 115 real files. |
 | [lookspeak](https://github.com/tahakocp/lookspeak) | Type and speak with your eyes, one switch or a long blink, using any webcam, in the browser. Optional on-device language model, seven languages, nothing leaves the device. |
 | [picovla](https://github.com/tahakocp/picovla) | A vision-language-action robot policy from scratch in ~470 lines of PyTorch. Trains on a CPU, runs in the browser. |
